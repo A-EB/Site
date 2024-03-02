@@ -27,7 +27,7 @@ const Head = () => {
                         <div className='tech-icon'>
                             <img src="./assets/images/icon06.png" alt="" />
                         </div>
-                        <img src="./assets/images/img1.png" alt="" />
+                        <img src="./assets/images/img.png" alt="" />
                     </div>
 
                     <div>
